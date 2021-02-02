@@ -1,0 +1,16 @@
+音标
+
+span > .BNeawe
+
+词性
+
+.Ap5OSd > .BNeawe > span.rQMQod
+
+词义
+
+.Ap5OSd > ol
+
+
+li
+
+ffplay -nodisp -loglevel quiet -autoexit -t 10
